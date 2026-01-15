@@ -1,0 +1,10 @@
+2026-01-15 16:07:48 - DEBUG - [SERVER] 127.0.0.1:1234 starting...
+2026-01-15 16:08:46 - DEBUG - [Client] create connection with name - wtdear
+2026-01-15 16:08:46 - DEBUG - [Client] wtdear starts chat with lox
+2026-01-15 16:08:49 - DEBUG - [Client] create connection with name - lox
+2026-01-15 16:08:49 - DEBUG - [Client] lox starts chat with wtdear
+2026-01-15 16:13:57 - DEBUG - [SERVER] 127.0.0.1:1234 starting...
+2026-01-15 16:14:18 - DEBUG - [Client] create connection with name - 2213
+2026-01-15 16:14:18 - DEBUG - [Client] 2213 starts chat with 11
+2026-01-15 16:14:21 - DEBUG - [Client] create connection with name - 11
+2026-01-15 16:14:21 - DEBUG - [Client] 11 starts chat with 2213
